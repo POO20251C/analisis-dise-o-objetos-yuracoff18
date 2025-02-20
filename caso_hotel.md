@@ -2,6 +2,7 @@
 
 ### Miembros:
 **Yura Hernandez**
+**Juan José Bolivar**
 
 ```mermaid
 classDiagram
